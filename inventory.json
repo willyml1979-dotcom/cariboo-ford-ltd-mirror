@@ -1,0 +1,271 @@
+{
+  "dealership": "Cariboo Ford Ltd",
+  "generated_at": "2026-09-24T16:10:32",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2015FordExplorerXLT",
+      "vin": "1FM5K8D88FGB99664",
+      "stock": "4038",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/cb1fa5ce3d71.html",
+      "source_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:06:05",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022ChevroletSilverado 1500 LTD",
+      "vin": "1GCUYDED5NZ173237",
+      "stock": "4033",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/12ae1418ea96.html",
+      "source_url": "https://www.caribooford.com/inventory/2022-chevrolet-silverado-1500-ltd-lt-SS8xxIu4TwO3P85caPSOLwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2022-chevrolet-silverado-1500-ltd-lt-SS8xxIu4TwO3P85caPSOLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:06:16",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022FordBronco",
+      "vin": "1FMDE5BH2NLB16000",
+      "stock": "4037",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/3819349da850.html",
+      "source_url": "https://www.caribooford.com/inventory/2022-ford-bronco-big-bend-fYXFoW4yRUugicOwCBL0PQvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2022-ford-bronco-big-bend-fYXFoW4yRUugicOwCBL0PQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:06:27",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023ChryslerPacifica",
+      "vin": "2C4RC3BG8PR565834",
+      "stock": "4020",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/6acf46f54e4e.html",
+      "source_url": "https://www.caribooford.com/inventory/2023-chrysler-pacifica-touring-l-Ombo6DAVRBSVEGFrq9JLawvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2023-chrysler-pacifica-touring-l-Ombo6DAVRBSVEGFrq9JLawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:06:38",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023ToyotaRAV4",
+      "vin": "2T35WRFV9PW152330",
+      "stock": "26T066A",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/f66e8fe5c7c0.html",
+      "source_url": "https://www.caribooford.com/inventory/2023-toyota-rav4-hybrid-xse-lOcJeYuWRwS2vYWdLZzN2Avdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2023-toyota-rav4-hybrid-xse-lOcJeYuWRwS2vYWdLZzN2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:06:48",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordExplorer",
+      "vin": "1FMSK8DH4RGA22391",
+      "stock": "4012",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/17e99141dd94.html",
+      "source_url": "https://www.caribooford.com/inventory/2024-ford-explorer-xlt-R40gOMMwRNyQ8xOgNh1Biwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2024-ford-explorer-xlt-R40gOMMwRNyQ8xOgNh1Biwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:07:00",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordF-150",
+      "vin": "1FTFW4L84RFA65798",
+      "stock": "4041",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/52ef40bc1d28.html",
+      "source_url": "https://www.caribooford.com/inventory/2024-ford-f-150-tremor-QCZRQ969TluqZr03xnyv2wvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2024-ford-f-150-tremor-QCZRQ969TluqZr03xnyv2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:07:11",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordMaverick",
+      "vin": "3FTTW8J92RRA56266",
+      "stock": "4029",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/fd1f9087847b.html",
+      "source_url": "https://www.caribooford.com/inventory/2024-ford-maverick-xlt-8bV5DtyGSH21SGzEVtkkOwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2024-ford-maverick-xlt-8bV5DtyGSH21SGzEVtkkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:07:23",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordBronco Sport",
+      "vin": "3FMCR9DA7SRF19815",
+      "stock": "4027",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/0a9625ee2dc0.html",
+      "source_url": "https://www.caribooford.com/inventory/2025-ford-bronco-sport-badlands-kBQJ0V4rSoSmGjw49tN8Wwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2025-ford-bronco-sport-badlands-kBQJ0V4rSoSmGjw49tN8Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:07:34",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordEscape",
+      "vin": "1FMCU9GN8SUA90707",
+      "stock": "4039",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/ab2e831cd143.html",
+      "source_url": "https://www.caribooford.com/inventory/2025-ford-escape-active-8aeA1ZaUTMSS3zfntwNMIAvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2025-ford-escape-active-8aeA1ZaUTMSS3zfntwNMIAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:07:45",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025SubaruCrosstrekOnyx",
+      "vin": "JF2GUHFC2S8301071",
+      "stock": "4040",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/c464d6e59a8e.html",
+      "source_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:07:57",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026GMCTerrain",
+      "vin": "3GKALUEG6TL150151",
+      "stock": "4031",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/8d1419db87c9.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-gmc-terrain-awd-elevation-62qSRYf6So2H9WiEUq4qBAvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-gmc-terrain-awd-elevation-62qSRYf6So2H9WiEUq4qBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:08:07",
+      "condition": "used"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L81TFB88469",
+      "stock": "26T100",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/88ff9a3cb731.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:08:29",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150",
+      "vin": "1FTFW7L89TFB82432",
+      "stock": "26T096",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/bc2cff44e55d.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:08:39",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150",
+      "vin": "1FTFW1RG7TFC17013",
+      "stock": "W1RR220",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9c56df7ed6ac.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:08:48",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L88TFB82422",
+      "stock": "26T095",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9def7117d9c6.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:08:59",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150",
+      "vin": "1FTFW4L8XTFC09314",
+      "stock": "26T111",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9b9898f47613.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:09:11",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L83TKE28732",
+      "stock": "26T067",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/e907a89f3895.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:09:22",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L87TKD52626",
+      "stock": "26T034",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/52c01d5c477f.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-OFH2X4hZS2yQLTYsIiZZJgvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-OFH2X4hZS2yQLTYsIiZZJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:09:33",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L86TKE60980",
+      "stock": "W3LB194",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/0e612e38f03b.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:09:44",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordMaverickXLT",
+      "vin": "3FTTW8JA1TRB42508",
+      "stock": "26T108",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/a0b697cef825.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:09:54",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordRanger",
+      "vin": "1FTER4KH1TLE01775",
+      "stock": "26T037",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/691f30f9eed0.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-lariat-OtLhIZihTQKvwGDo2dNTrQvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-lariat-OtLhIZihTQKvwGDo2dNTrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:10:05",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordRangerXL",
+      "vin": "1FTER4PH6TLE35882",
+      "stock": "26T115",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/369203929c00.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xl-FdGgdGjhQZa1uMtFmObJcAvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xl-FdGgdGjhQZa1uMtFmObJcAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:10:14",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordRangerXLT",
+      "vin": "1FTER4HP4TLE47339",
+      "stock": "26T114",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/e17ec76692e3.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:10:24",
+      "condition": "new"
+    }
+  ]
+}
