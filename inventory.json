@@ -1,7 +1,7 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-09-26T16:23:41",
-  "vehicle_count": 23,
+  "generated_at": "2026-10-03T14:02:17",
+  "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -137,6 +137,17 @@
       "condition": "used"
     },
     {
+      "name": "New2026FordBronco Sport",
+      "vin": "3FMCR9BN2TRE84799",
+      "stock": "26S024",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9e2a685da292.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-bronco-sport-big-bend-UXYV7S6hQS6L5SlpuzX8tAvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-bronco-sport-big-bend-UXYV7S6hQS6L5SlpuzX8tAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T14:00:19",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L81TFB88469",
       "stock": "26T100",
@@ -144,7 +155,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/88ff9a3cb731.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:08:29",
+      "last_verified": "2026-10-03T14:00:40",
       "condition": "new"
     },
     {
@@ -155,7 +166,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/bc2cff44e55d.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:22:01",
+      "last_verified": "2026-10-03T14:00:50",
       "condition": "new"
     },
     {
@@ -166,7 +177,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9c56df7ed6ac.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:22:11",
+      "last_verified": "2026-10-03T14:01:01",
       "condition": "new"
     },
     {
@@ -177,7 +188,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9def7117d9c6.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:08:59",
+      "last_verified": "2026-10-03T14:01:12",
       "condition": "new"
     },
     {
@@ -188,7 +199,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9b9898f47613.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:22:31",
+      "last_verified": "2026-10-03T14:01:24",
       "condition": "new"
     },
     {
@@ -199,18 +210,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/e907a89f3895.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:09:22",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150XLT",
-      "vin": "1FTFW3L87TKD52626",
-      "stock": "26T034",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/52c01d5c477f.html",
-      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-OFH2X4hZS2yQLTYsIiZZJgvdp",
-      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-OFH2X4hZS2yQLTYsIiZZJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:09:33",
+      "last_verified": "2026-10-03T14:01:34",
       "condition": "new"
     },
     {
@@ -221,7 +221,18 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/0e612e38f03b.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:09:44",
+      "last_verified": "2026-10-03T14:01:45",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTEW3LP3TKE69557",
+      "stock": "26T097",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/7a1a49d81c7d.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T14:00:31",
       "condition": "new"
     },
     {
@@ -231,7 +242,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/a0b697cef825.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:23:15",
+      "last_verified": "2026-10-03T14:01:53",
       "condition": "new"
     },
     {
@@ -242,7 +253,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/369203929c00.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xl-FdGgdGjhQZa1uMtFmObJcAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xl-FdGgdGjhQZa1uMtFmObJcAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:10:14",
+      "last_verified": "2026-10-03T14:02:04",
       "condition": "new"
     },
     {
@@ -253,7 +264,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/e17ec76692e3.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:23:36",
+      "last_verified": "2026-10-03T14:02:13",
       "condition": "new"
     }
   ]
