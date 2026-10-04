@@ -1,19 +1,30 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-04T14:09:53",
+  "generated_at": "2026-10-04T15:50:28",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
     {
-      "name": "Used2015FordExplorerXLT",
+      "name": "Used2015FordExplorer",
       "vin": "1FM5K8D88FGB99664",
       "stock": "4038",
       "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/cb1fa5ce3d71.html",
       "source_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:06:05",
+      "last_verified": "2026-10-04T15:48:52",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020FordF-150",
+      "vin": "1FTEW1E45LKF29670",
+      "stock": "26T112A",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/e6fbd3861257.html",
+      "source_url": "https://www.caribooford.com/inventory/2020-ford-f-150-lariat-AD29V19FRm2Wv1RTG5Sjmwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2020-ford-f-150-lariat-AD29V19FRm2Wv1RTG5Sjmwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:48:30",
       "condition": "used"
     },
     {
@@ -24,7 +35,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/12ae1418ea96.html",
       "source_url": "https://www.caribooford.com/inventory/2022-chevrolet-silverado-1500-ltd-lt-SS8xxIu4TwO3P85caPSOLwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2022-chevrolet-silverado-1500-ltd-lt-SS8xxIu4TwO3P85caPSOLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:06:16",
+      "last_verified": "2026-10-04T15:49:02",
       "condition": "used"
     },
     {
@@ -34,7 +45,18 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/3819349da850.html",
       "source_url": "https://www.caribooford.com/inventory/2022-ford-bronco-big-bend-fYXFoW4yRUugicOwCBL0PQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2022-ford-bronco-big-bend-fYXFoW4yRUugicOwCBL0PQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:06:27",
+      "last_verified": "2026-10-04T15:49:13",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023BuickEnclavePremium",
+      "vin": "5GAEVBKW5PJ178691",
+      "stock": "4044",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/ff1a373603d1.html",
+      "source_url": "https://www.caribooford.com/inventory/2023-buick-enclave-premium-YaQe0AHdRDuY5SAiMH4PLwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2023-buick-enclave-premium-YaQe0AHdRDuY5SAiMH4PLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:48:41",
       "condition": "used"
     },
     {
@@ -45,7 +67,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/6acf46f54e4e.html",
       "source_url": "https://www.caribooford.com/inventory/2023-chrysler-pacifica-touring-l-Ombo6DAVRBSVEGFrq9JLawvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2023-chrysler-pacifica-touring-l-Ombo6DAVRBSVEGFrq9JLawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:06:38",
+      "last_verified": "2026-10-04T15:49:23",
       "condition": "used"
     },
     {
@@ -56,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/f66e8fe5c7c0.html",
       "source_url": "https://www.caribooford.com/inventory/2023-toyota-rav4-hybrid-xse-lOcJeYuWRwS2vYWdLZzN2Avdp",
       "dealer_url": "https://www.caribooford.com/inventory/2023-toyota-rav4-hybrid-xse-lOcJeYuWRwS2vYWdLZzN2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:06:48",
+      "last_verified": "2026-10-04T15:49:33",
       "condition": "used"
     },
     {
@@ -67,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/17e99141dd94.html",
       "source_url": "https://www.caribooford.com/inventory/2024-ford-explorer-xlt-R40gOMMwRNyQ8xOgNh1Biwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2024-ford-explorer-xlt-R40gOMMwRNyQ8xOgNh1Biwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:07:00",
+      "last_verified": "2026-10-04T15:49:42",
       "condition": "used"
     },
     {
@@ -78,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/52ef40bc1d28.html",
       "source_url": "https://www.caribooford.com/inventory/2024-ford-f-150-tremor-QCZRQ969TluqZr03xnyv2wvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2024-ford-f-150-tremor-QCZRQ969TluqZr03xnyv2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:07:11",
+      "last_verified": "2026-10-04T15:49:52",
       "condition": "used"
     },
     {
@@ -89,18 +111,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/fd1f9087847b.html",
       "source_url": "https://www.caribooford.com/inventory/2024-ford-maverick-xlt-8bV5DtyGSH21SGzEVtkkOwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2024-ford-maverick-xlt-8bV5DtyGSH21SGzEVtkkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:07:23",
-      "condition": "used"
-    },
-    {
-      "name": "Used2025FordBronco Sport",
-      "vin": "3FMCR9DA7SRF19815",
-      "stock": "4027",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/0a9625ee2dc0.html",
-      "source_url": "https://www.caribooford.com/inventory/2025-ford-bronco-sport-badlands-kBQJ0V4rSoSmGjw49tN8Wwvdp",
-      "dealer_url": "https://www.caribooford.com/inventory/2025-ford-bronco-sport-badlands-kBQJ0V4rSoSmGjw49tN8Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:07:34",
+      "last_verified": "2026-10-04T15:50:02",
       "condition": "used"
     },
     {
@@ -111,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/ab2e831cd143.html",
       "source_url": "https://www.caribooford.com/inventory/2025-ford-escape-active-8aeA1ZaUTMSS3zfntwNMIAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2025-ford-escape-active-8aeA1ZaUTMSS3zfntwNMIAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:07:45",
+      "last_verified": "2026-10-04T15:50:12",
       "condition": "used"
     },
     {
@@ -122,18 +133,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/c464d6e59a8e.html",
       "source_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:07:57",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026GMCTerrain",
-      "vin": "3GKALUEG6TL150151",
-      "stock": "4031",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/8d1419db87c9.html",
-      "source_url": "https://www.caribooford.com/inventory/2026-gmc-terrain-awd-elevation-62qSRYf6So2H9WiEUq4qBAvdp",
-      "dealer_url": "https://www.caribooford.com/inventory/2026-gmc-terrain-awd-elevation-62qSRYf6So2H9WiEUq4qBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:08:07",
+      "last_verified": "2026-10-04T15:50:23",
       "condition": "used"
     },
     {
