@@ -1,6 +1,6 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-03T14:02:17",
+  "generated_at": "2026-10-04T14:09:53",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -172,12 +172,12 @@
     {
       "name": "New2026FordF-150",
       "vin": "1FTFW1RG7TFC17013",
-      "stock": "W1RR220",
+      "stock": "26T120",
       "color": "Green",
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9c56df7ed6ac.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:01:01",
+      "last_verified": "2026-10-04T14:08:33",
       "condition": "new"
     },
     {
@@ -199,7 +199,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9b9898f47613.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:01:24",
+      "last_verified": "2026-10-04T14:08:53",
       "condition": "new"
     },
     {
