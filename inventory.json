@@ -1,6 +1,6 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-04T15:50:28",
+  "generated_at": "2026-10-08T14:34:07",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "source_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:48:52",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2020FordF-150",
@@ -25,7 +27,9 @@
       "source_url": "https://www.caribooford.com/inventory/2020-ford-f-150-lariat-AD29V19FRm2Wv1RTG5Sjmwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2020-ford-f-150-lariat-AD29V19FRm2Wv1RTG5Sjmwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:48:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2022ChevroletSilverado 1500 LTD",
@@ -36,7 +40,9 @@
       "source_url": "https://www.caribooford.com/inventory/2022-chevrolet-silverado-1500-ltd-lt-SS8xxIu4TwO3P85caPSOLwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2022-chevrolet-silverado-1500-ltd-lt-SS8xxIu4TwO3P85caPSOLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:49:02",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2022FordBronco",
@@ -46,7 +52,9 @@
       "source_url": "https://www.caribooford.com/inventory/2022-ford-bronco-big-bend-fYXFoW4yRUugicOwCBL0PQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2022-ford-bronco-big-bend-fYXFoW4yRUugicOwCBL0PQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:49:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2023BuickEnclavePremium",
@@ -57,7 +65,9 @@
       "source_url": "https://www.caribooford.com/inventory/2023-buick-enclave-premium-YaQe0AHdRDuY5SAiMH4PLwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2023-buick-enclave-premium-YaQe0AHdRDuY5SAiMH4PLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:48:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2023ChryslerPacifica",
@@ -68,7 +78,9 @@
       "source_url": "https://www.caribooford.com/inventory/2023-chrysler-pacifica-touring-l-Ombo6DAVRBSVEGFrq9JLawvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2023-chrysler-pacifica-touring-l-Ombo6DAVRBSVEGFrq9JLawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:49:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2023ToyotaRAV4",
@@ -79,7 +91,9 @@
       "source_url": "https://www.caribooford.com/inventory/2023-toyota-rav4-hybrid-xse-lOcJeYuWRwS2vYWdLZzN2Avdp",
       "dealer_url": "https://www.caribooford.com/inventory/2023-toyota-rav4-hybrid-xse-lOcJeYuWRwS2vYWdLZzN2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:49:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2024FordExplorer",
@@ -90,7 +104,9 @@
       "source_url": "https://www.caribooford.com/inventory/2024-ford-explorer-xlt-R40gOMMwRNyQ8xOgNh1Biwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2024-ford-explorer-xlt-R40gOMMwRNyQ8xOgNh1Biwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:49:42",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2024FordF-150",
@@ -101,7 +117,9 @@
       "source_url": "https://www.caribooford.com/inventory/2024-ford-f-150-tremor-QCZRQ969TluqZr03xnyv2wvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2024-ford-f-150-tremor-QCZRQ969TluqZr03xnyv2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:49:52",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2024FordMaverick",
@@ -112,7 +130,9 @@
       "source_url": "https://www.caribooford.com/inventory/2024-ford-maverick-xlt-8bV5DtyGSH21SGzEVtkkOwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2024-ford-maverick-xlt-8bV5DtyGSH21SGzEVtkkOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:50:02",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2025FordEscape",
@@ -123,7 +143,9 @@
       "source_url": "https://www.caribooford.com/inventory/2025-ford-escape-active-8aeA1ZaUTMSS3zfntwNMIAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2025-ford-escape-active-8aeA1ZaUTMSS3zfntwNMIAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:50:12",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2025SubaruCrosstrekOnyx",
@@ -134,7 +156,9 @@
       "source_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:50:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco Sport",
@@ -145,7 +169,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-bronco-sport-big-bend-UXYV7S6hQS6L5SlpuzX8tAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-bronco-sport-big-bend-UXYV7S6hQS6L5SlpuzX8tAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:00:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -156,7 +182,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:00:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150",
@@ -167,7 +195,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:00:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150",
@@ -178,7 +208,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T14:08:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -189,7 +221,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:01:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150",
@@ -200,7 +234,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T14:08:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -211,7 +247,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:01:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -222,7 +260,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:01:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -233,7 +273,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:00:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXLT",
@@ -243,7 +285,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:01:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXL",
@@ -254,7 +298,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xl-FdGgdGjhQZa1uMtFmObJcAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xl-FdGgdGjhQZa1uMtFmObJcAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:02:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "New2026FordRangerXLT",
@@ -265,7 +311,9 @@
       "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T14:02:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     }
   ]
 }
