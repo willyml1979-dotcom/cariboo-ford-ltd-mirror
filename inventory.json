@@ -1,7 +1,7 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-08T14:34:07",
-  "vehicle_count": 24,
+  "generated_at": "2026-10-08T14:42:14",
+  "vehicle_count": 25,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -161,6 +161,19 @@
       "province": "BC"
     },
     {
+      "name": "New2026FordBroncoBase",
+      "vin": "1FMDE6AH4TLA76734",
+      "stock": "26S014",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9bf264cce7a9.html",
+      "source_url": "https://www.caribooford.com/inventory/2026-ford-bronco-base-XnwaGypBTuuv6t3itQJ6Awvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-bronco-base-XnwaGypBTuuv6t3itQJ6Awvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T14:40:10",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
+    },
+    {
       "name": "New2026FordBronco Sport",
       "vin": "3FMCR9BN2TRE84799",
       "stock": "26S024",
@@ -181,7 +194,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/88ff9a3cb731.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-lariat-DUovElbYRLSWZNFS72l5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:00:40",
+      "last_verified": "2026-10-08T14:40:42",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -194,7 +207,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/bc2cff44e55d.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:00:50",
+      "last_verified": "2026-10-08T14:40:52",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -207,7 +220,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9c56df7ed6ac.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-raptor-04sqyRCbT02CiuJYc5YskAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:08:33",
+      "last_verified": "2026-10-08T14:41:02",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -220,7 +233,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9def7117d9c6.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-30CmG8GlTE62nQF8MCIYwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:01:12",
+      "last_verified": "2026-10-08T14:41:14",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -233,7 +246,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9b9898f47613.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-tremor-KeKjY6HIQRSfyWIbmqYjmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:08:53",
+      "last_verified": "2026-10-08T14:41:25",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -246,7 +259,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/e907a89f3895.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-HOWsVSNORva9eIGSMsDTRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:01:34",
+      "last_verified": "2026-10-08T14:41:37",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -259,7 +272,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/0e612e38f03b.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-PmE73bwbTAKeuDKLiRzp7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:01:45",
+      "last_verified": "2026-10-08T14:41:46",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -272,7 +285,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/7a1a49d81c7d.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:00:31",
+      "last_verified": "2026-10-08T14:40:31",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -284,7 +297,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/a0b697cef825.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-maverick-xlt-1vw9oaoHRNqpIdWl2M2MxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:01:53",
+      "last_verified": "2026-10-08T14:41:58",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -310,7 +323,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/e17ec76692e3.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T14:02:13",
+      "last_verified": "2026-10-08T14:42:10",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
