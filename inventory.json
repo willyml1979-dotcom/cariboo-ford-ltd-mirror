@@ -1,6 +1,6 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-08T18:31:19",
+  "generated_at": "2026-10-10T17:04:06",
   "vehicle_count": 26,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13,7 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/cb1fa5ce3d71.html",
       "source_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2015-ford-explorer-xlt-HCuxz69WS4GF8YR3NdsDFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T18:29:55",
+      "last_verified": "2026-10-10T17:02:48",
       "condition": "used",
       "city": "Quesnel",
       "province": "BC"
