@@ -1,7 +1,7 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-10T17:04:06",
-  "vehicle_count": 26,
+  "generated_at": "2026-10-13T22:33:09",
+  "vehicle_count": 27,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -27,6 +27,19 @@
       "source_url": "https://www.caribooford.com/inventory/2020-ford-f-150-lariat-AD29V19FRm2Wv1RTG5Sjmwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2020-ford-f-150-lariat-AD29V19FRm2Wv1RTG5Sjmwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T18:29:34",
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
+    },
+    {
+      "name": "Used2021FordF-150",
+      "vin": "1FTEX1EP9MKD24619",
+      "stock": "26T035A",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/2ad4445b555c.html",
+      "source_url": "https://www.caribooford.com/inventory/2021-ford-f-150-xlt-UXxFPCA7S8ub0SMHoGjRGwvdp",
+      "dealer_url": "https://www.caribooford.com/inventory/2021-ford-f-150-xlt-UXxFPCA7S8ub0SMHoGjRGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T22:31:08",
       "condition": "used",
       "city": "Quesnel",
       "province": "BC"
@@ -155,7 +168,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/c464d6e59a8e.html",
       "source_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2025-subaru-crosstrek-onyx-zM6IVSi8RNKnuWiMrz2qBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T18:31:14",
+      "last_verified": "2026-10-13T22:33:03",
       "condition": "used",
       "city": "Quesnel",
       "province": "BC"
@@ -168,7 +181,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/used/8d1419db87c9.html",
       "source_url": "https://www.caribooford.com/inventory/2026-gmc-terrain-awd-elevation-62qSRYf6So2H9WiEUq4qBAvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-gmc-terrain-awd-elevation-62qSRYf6So2H9WiEUq4qBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T18:29:25",
+      "last_verified": "2026-10-13T22:31:28",
       "condition": "used",
       "city": "Quesnel",
       "province": "BC"
