@@ -1,6 +1,6 @@
 {
   "dealership": "Cariboo Ford Ltd",
-  "generated_at": "2026-10-17T22:36:47",
+  "generated_at": "2026-10-18T21:22:00",
   "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -207,7 +207,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/9bb5c9e8e9c4.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-bronco-sport-badlands-39CRpSakS0Wltem88Cz3mQvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-bronco-sport-badlands-39CRpSakS0Wltem88Cz3mQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T18:38:08",
+      "last_verified": "2026-10-18T21:19:53",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -246,7 +246,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/bc2cff44e55d.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-platinum-9aPCmBWSRRy5GCxjlWFFlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:40:52",
+      "last_verified": "2026-10-18T21:20:44",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
@@ -324,7 +324,7 @@
       "url": "https://willyml1979-dotcom.github.io/cariboo-ford-ltd-mirror/new/7a1a49d81c7d.html",
       "source_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp",
       "dealer_url": "https://www.caribooford.com/inventory/2026-ford-f-150-xlt-V2UjpyIIRgOdvqMOSBTB5Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T18:38:43",
+      "last_verified": "2026-10-18T21:20:24",
       "condition": "new",
       "city": "Quesnel",
       "province": "BC"
